@@ -419,7 +419,7 @@ Potential future enhancements include:
 
 Robotics & Automation Engineering Student
 
-This project was developed as part of an internship/project portfolio to demonstrate full-stack web development, AI integration, API development, authentication, real-time communication, and cloud deployment.
+This project was developed as part of an project portfolio to demonstrate full-stack web development, AI integration, API development, authentication, real-time communication, and cloud deployment.
 
 ---
 
