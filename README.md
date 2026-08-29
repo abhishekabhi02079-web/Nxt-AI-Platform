@@ -9,9 +9,8 @@ The platform combines a **Next.js frontend**, **Node.js/Express backend**, **Goo
 **Live Website:
 *https://nxt-ai-platform-gvn7.onrender.com/*
 
-**GitHub Repository:**
-https://github.com/abhishekabhi02079-web/Nxt-AI-Platform.git
----
+*GitHub Repository*:
+*https://github.com/abhishekabhi02079-web/Nxt-AI-Platform.git*
 
 ## 📌 Project Description
 
