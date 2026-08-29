@@ -178,7 +178,7 @@ Nxt-AI-Platform/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Nxt-AI-Platform.git
+git clone https://github.com/abhishekabhi02079-web/Nxt-AI-Platform.git
 ```
 
 Move into the project:
@@ -208,7 +208,7 @@ Example:
 NODE_ENV=development
 PORT=5000
 
-GEMINI_API_KEY=your_gemini_api_key
+GEMINI_API_KEY=your_gemini_api_key_here
 
 CLIENT_URL=http://localhost:3000
 ```
